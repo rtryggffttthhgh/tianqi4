@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx72659273e5657aa9",
+# 公众号appSecret
+"app_secret": "4bd0cd4a8edf2abc79ff9fad4b4ca391",
+# 模板消息id
+"template_id": "hbQyyxdeCGtuS-RnO955d4dKP8BKAhVyoPqyWukGoR0",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["obCts5qnW0sWsQroy7ukJftJvyCg"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "ac3d9fe94fb04dd190ae01c525516d80",
+# 天行数据apikey
+"tian_api": "e41f967ff16cccd80de070d23f57801c",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "高碑店",
+# 生日
+"birthday1": {"name": "刘小姐", "birthday": "2006-12-25"},
+# 在一起的日子，格式同上
+"love_date": "2022-07-28",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "写给刘小姐的第一封信：哥一直想让你明白一件事，永远不要让别人妨碍你的情绪，快快乐乐每一天，乖,听话",
+# 金句英文
+"note_en": ",It's joy to know you, wishing the nicest things always for you, not only today, but all the year through because you are really a joy to know."
+}
